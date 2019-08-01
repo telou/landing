@@ -1,0 +1,40 @@
+.footer {
+  background-color: #004346;
+  opacity: 0.9;
+  background-size: cover;
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.footer ul {
+  list-style: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.footer p {
+  margin: 0;
+  padding: 0;
+}
+
+.footer li {
+  display: inline-block;
+}
+
+.social {
+  font-size: 40px;
+  margin: 20px 0px;
+  transition: 0.2s;
+}
+
+.social:hover {
+  color: #787C80;
+}
+
+.social-small {
+
+}

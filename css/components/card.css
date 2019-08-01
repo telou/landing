@@ -1,0 +1,40 @@
+.card-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards {
+  width: 30%;
+  box-shadow: 5px 5px 10px #D4D4D4;
+  margin-top: 20px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.cards:hover {
+  width: 35%;
+}
+
+.cards img {
+  width: 90%;
+  margin: 10px;
+  opacity: 0.9;
+}
+
+.card-info {
+  align-items: top;
+  margin: 0;
+  padding: 0;
+}
+
+.card-info h3 {
+  margin: 0;
+  padding: 0;
+  color: #343C44;
+}
+
+.card-info p {
+  margin: 0;
+  padding: 10px;
+}
+
